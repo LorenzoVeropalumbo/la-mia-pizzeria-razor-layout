@@ -17,3 +17,22 @@ body {
   margin-bottom: 60px;
 }
 
+.Titolo, .Sub-titolo {
+    font-size: 25px;
+}
+
+.snack *{
+    font-size: 18px;
+}
+.snack h4{
+    font-size: 22px;
+}
+span{
+   
+}
+
+.snack .home{
+    font-size: 22px;
+    display:flex;
+    justify-content:center;
+}
