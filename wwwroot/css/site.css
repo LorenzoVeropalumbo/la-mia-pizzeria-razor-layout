@@ -31,8 +31,11 @@ span{
    
 }
 
-.snack .home{
-    font-size: 22px;
-    display:flex;
-    justify-content:center;
+.home a{
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: inherit;
+    text-decoration: none;
 }
